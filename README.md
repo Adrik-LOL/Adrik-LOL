@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Adrik-LOL
-- 👀 I’m interested in VB.NET, Python and website making
-- 🌱 I’m currently learning Pascal and Basic
-- 💞️ I’m looking to collaborate on MEME Virus Making and Software developing
+![wordart (1)](https://github.com/user-attachments/assets/16d41614-5acf-4e11-8463-dfe883ec1455)
+# Sup chat, AdrianoTech is here.
+
 - 📫 How to reach me | https://youtube.com/@adrianotech or https://adrianotechwebsite.web.app (just add me on discord, it's faster: @adrianotech)
+- If you are searching for solaris by nikitpad donwload it from here: https://github.com/therealnikitpad/solaris/raw/main/solaris.exe
 
 <!---
 Adrik-LOL/Adrik-LOL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
